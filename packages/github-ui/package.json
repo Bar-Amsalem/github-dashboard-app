@@ -1,0 +1,25 @@
+{
+  "name": "@gh-dashboard/github-ui",
+  "version": "0.0.2",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'No tests configured'",
+    "lint": "echo 'No linter configured'",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist",
+    "deploy": "echo 'No deploy configured'"
+  },
+  "dependencies": {
+    "@gh-dashboard/github-types": "workspace:*",
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.6.3"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0"
+  }
+}

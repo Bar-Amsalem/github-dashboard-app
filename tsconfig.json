@@ -1,0 +1,9 @@
+{
+  "references": [
+    { "path": "packages/github-types" },
+    { "path": "packages/github-gh-cli" },
+    { "path": "packages/github-ui" },
+    { "path": "packages/electron-app" }
+  ],
+  "files": []
+}

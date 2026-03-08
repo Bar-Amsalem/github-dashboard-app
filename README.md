@@ -110,5 +110,6 @@ This tags the version and pushes to origin, which triggers the [release workflow
 
 ## Release Notes
 
+- [v0.0.3](./RELEASE_NOTES/v0.0.3.md) — Local DMG build and release workflow
 - [v0.0.2](./RELEASE_NOTES/v0.0.2.md) — Fix pagination for reviews and check-runs APIs
 - [v0.0.1](./RELEASE_NOTES/v0.0.1.md) — Initial release

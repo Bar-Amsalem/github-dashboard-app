@@ -61,4 +61,4 @@ Bump the project version, generate release notes, and prepare a release. Follow 
 
 - Display the new version number.
 - Display the generated release notes content.
-- Remind the user to commit the changes (version bump + release notes) and then run `yarn publish` to tag and push, which triggers the GitHub Actions release workflow.
+- Remind the user to commit the changes (version bump + release notes) and then run `yarn publish` to build the DMG locally, tag the version, and create a GitHub release with the DMG attached.

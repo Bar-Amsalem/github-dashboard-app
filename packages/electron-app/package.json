@@ -1,7 +1,7 @@
 {
   "name": "@gh-dashboard/electron-app",
   "productName": "TINT Viewer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "View your open pull requests across all repositories",
   "author": "TINT Viewer",
   "main": "dist-electron/main.js",

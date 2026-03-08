@@ -1,6 +1,6 @@
 {
   "name": "@gh-dashboard/github-gh-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
